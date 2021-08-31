@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiyunGe
 - 👀 I’m interested in SLAM and all fancy stuff related to 3D
-- 🌱 I’m currently working at Momenta
+- 🌱 I’m currently studying at USC in Master of Computer Science
 - 📫 How to reach me? Please refer [About Me](https://ziyunge1999.github.io/blog/about/) for more information
 
 <!---
